@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "es2015",
+    "target": "es2015",
+      "outDir": "./src/dist"
+  },
+  "exclude": [
+    "node_modules"
+  ],
+    "include": [
+        "./src/**/*"
+    ]
+}
